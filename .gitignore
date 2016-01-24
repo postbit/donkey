@@ -1,0 +1,7 @@
+
+/.env
+/.bundle
+/config/database.yml
+/log/*
+!/log/.keep
+/tmp
